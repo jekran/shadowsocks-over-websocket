@@ -29,5 +29,12 @@
     "shadowsocks": "^1.5.3",
     "throng": "^4.0.0",
     "ws": "^2.2.3"
+  },
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.13.0"
   }
+
 }
